@@ -1,6 +1,7 @@
 # Snapface2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+I followed a lesson Angular on openclassrooms : [https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3](https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular)
 
 ## Development server
 
